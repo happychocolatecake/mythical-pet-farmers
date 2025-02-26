@@ -2,7 +2,6 @@
 
 ### Summary
 Mythical Pet Farmers is a 2D unity game that combines farming simulation with RPG-style pet battles. Players can choose to focus on growing crops, battling with their pet, or both. The game offers freedom with no time limits, allowing for a relaxed or strategic playstyle. Inspired by games like Pokémon and Stardew Valley, it features simple controls, a day-night cycle, and a save system. Players can select from different pets, engage in battles using a button-mashing system, and improve their farm over time. Designed for casual gamers, it provides an accessible and engaging experience. 
-There are still a lot of features a work in progess and some a bit bugged but I will work on them eventually :)
 
 ### Images
 ![image](https://github.com/user-attachments/assets/c8178151-899f-4063-83ea-659a0f332c18)
@@ -12,4 +11,7 @@ There are still a lot of features a work in progess and some a bit bugged but I 
 
 ### Download Latest
 
+There are still a of work in progess features with some a bit bugged, but I will work on them eventually :)
+
+download link:
 https://drive.google.com/drive/folders/1lRyGaELgZajlALgQC01DnWcRVGGYZJYO?usp=sharing
