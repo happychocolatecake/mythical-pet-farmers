@@ -22,10 +22,12 @@ https://happychocolatecake.itch.io/mythical-pet-farmers
 
 There are still a of work in progess features with some a bit bugged, but I will work on them eventually :)
 
-- [Download Latest v0.2.0 (Google Drive)](https://drive.google.com/file/d/1GHC2rkXJPt0JfcAK368uIGN9glq4sPeb/view?usp=sharing)
+**[View Patch Notes and Download the Latest Build](https://github.com/happychocolatecake/mythical-pet-farmers/releases/latest)**
 
-- [Download v0.1.0 (Google Drive)](https://drive.google.com/drive/folders/1lRyGaELgZajlALgQC01DnWcRVGGYZJYO?usp=sharing)
+#### Full Version Changelog
 
-- [Download v0.2.0 (Google Drive)](https://drive.google.com/file/d/1GHC2rkXJPt0JfcAK368uIGN9glq4sPeb/view?usp=sharing)
+- [v0.1.0-beta](https://github.com/happychocolatecake/mythical-pet-farmers/releases/tag/v0.1.0-beta)
+
+- [v0.2.0-beta](https://github.com/happychocolatecake/mythical-pet-farmers/releases/tag/v0.2.0-beta)
 
 
