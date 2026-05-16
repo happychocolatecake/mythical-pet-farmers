@@ -15,3 +15,6 @@ There are still a of work in progess features with some a bit bugged, but I will
 
 download link:
 https://drive.google.com/drive/folders/1lRyGaELgZajlALgQC01DnWcRVGGYZJYO?usp=sharing
+
+webgl playable version:
+https://happychocolatecake.itch.io/mythical-pet-farmers
