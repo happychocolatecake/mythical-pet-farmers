@@ -20,7 +20,7 @@ https://happychocolatecake.itch.io/mythical-pet-farmers
 
 ### Downloads
 
-There are still a of work in progess features with some a bit bugged, but I will work on them eventually :)
+There are still a lot of work in progess features with some a bit bugged, but I will work on them eventually :)
 
 **[View Patch Notes and Download the Latest Build](https://github.com/happychocolatecake/mythical-pet-farmers/releases/latest)**
 
