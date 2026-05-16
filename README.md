@@ -8,7 +8,10 @@ Mythical Pet Farmers is a 2D unity game that combines farming simulation with RP
 There are still a of work in progess features with some a bit bugged, but I will work on them eventually :)
 
 download link:
-https://drive.google.com/drive/folders/1lRyGaELgZajlALgQC01DnWcRVGGYZJYO?usp=sharing
+[Download v0.2.0 through Google Drive](https://drive.google.com/file/d/1GHC2rkXJPt0JfcAK368uIGN9glq4sPeb/view?usp=sharing)
 
-webgl playable version:
+### Play Latest Online
+WebGL version via itch.io: 
 https://happychocolatecake.itch.io/mythical-pet-farmers
+
+### Past Versions
